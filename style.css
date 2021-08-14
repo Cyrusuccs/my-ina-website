@@ -26,13 +26,7 @@ body{
     color:#ffffff;
   }
   
-  .dark{
-    padding:15px;
-    background:#35424a;
-    color:#ffffff;
-    margin-top:10px;
-    margin-bottom:10px;
-  }
+
   
   /* Header **/
   header{
@@ -82,7 +76,7 @@ body{
   /* Showcase */
   #showcase{
     min-height:400px;
-    background:url('Ninomae.jpg') no-repeat 0 -400px;
+    background:url('images/Ninomae.jpg') no-repeat 0 -400px;
     text-align:center;
     color:#ffffff;
   }
